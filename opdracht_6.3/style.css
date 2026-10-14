@@ -1,0 +1,15 @@
+.navigatie {
+    display: flex;
+    justify-content: space-around;
+
+    .halve-nav {
+        flex: 1;
+        background-color: rgb(249, 174, 60);
+    }
+
+
+    .kwart-nav {
+        flex: 2;
+        background-color: cadetblue;
+    }
+}
