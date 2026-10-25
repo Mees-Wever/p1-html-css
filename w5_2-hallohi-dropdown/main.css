@@ -35,7 +35,6 @@ nav {
         display: none;
         position: absolute;
         top: 100%;
-        left: 0;
         max-width: max-content;
         background-color: #7272DD;
         row-gap: 10px;
