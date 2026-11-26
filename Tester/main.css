@@ -1,0 +1,15 @@
+.Jaarplanning {
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+
+    .period {
+        flex: 2;
+    }
+
+    .beoordeeling {
+        flex: 1;
+        background-color: turquoise;
+    }
+
+}
